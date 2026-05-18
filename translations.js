@@ -204,7 +204,6 @@ const translations = {
     footer_copyright: "© 2024 Baghdad Hotel. All Rights Reserved.",
     footer_privacy: "Privacy Policy",
     footer_terms: "Terms & Conditions",
-    footer_note: "Designed for portfolio purposes only",
   },
 
   /* ==== ARABIC ==== */
@@ -410,6 +409,5 @@ const translations = {
     footer_copyright: "© 2024 فندق بغداد. جميع الحقوق محفوظة.",
     footer_privacy: "سياسة الخصوصية",
     footer_terms: "الشروط والأحكام",
-    footer_note: "مصمم لأغراض المحفظة فقط",
   },
 };
